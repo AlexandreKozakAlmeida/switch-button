@@ -1,0 +1,52 @@
+body {
+    transition: .3s;
+    overflow: hidden;
+}
+
+.situation {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    height: 100vh;
+  }
+  
+  #toggleBtn {
+    background-color: gray;
+    width: 6em;
+    height: 2em;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  #toggleBtn #button {
+     background-color: black;
+    width: 1.8em;
+    height: 1.8em;
+    border-radius: 2rem;
+    margin: 2px;
+    cursor: pointer;
+
+    transition: .4s;
+  }
+
+  #toggleBtn.active #button {
+    margin-left: 70%;
+    background-color: white;
+   
+  }
+
+ 
+
+  
+
+
+  
+ 
