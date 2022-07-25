@@ -15,3 +15,10 @@ Esse projeto foi desenvolvido para colocar em prática tudo o que eu venho estud
 * HTML
 * Css
 * JavaScript
+
+
+## Video do projeto:
+
+https://user-images.githubusercontent.com/98601344/180885980-4b087cb6-fda5-4851-9cdf-4a9f9421c9a9.mp4
+
+
