@@ -8,7 +8,7 @@ Esse projeto foi desenvolvido para colocar em prática tudo o que eu venho estud
 
 ## Desafio do projeto
 
-* O maior desafio do projeto foi a utilização pura do JavaScript sem a necessidade de buscar por respostas na internete.
+* O maior desafio do projeto foi a utilização pura do JavaScript sem a necessidade de buscar por respostas na internet.
 
 ## Projeto feito com:
 
